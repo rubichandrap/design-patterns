@@ -44,7 +44,4 @@ Feel free to explore the folders and learn at your own pace.
 ## Contributing
 Contributions are welcome! If you have examples or improvements for any design pattern, please submit a pull request. Make sure to follow the contribution guidelines.
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
-
 Happy coding!
